@@ -1,0 +1,12 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "url": "https://www.freecodecamp.org/news/how-to-build-a-simple-portfolio-blog-with-nextjs/",
+      "tags": ["Web Dev"],
+      "title": "How To Build A Simple Portfolio Blog With Next.js",
+      "description": "A reference article for the architecture used in this portfolio blog. Replace this entry with one of your own articles.",
+      "image": ""
+    }
+  ]
+}
